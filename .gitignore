@@ -1,0 +1,7 @@
+rooms/
+config/users.txt
+libs/__pycache__/
+.vscode/
+.vs/
+**.pyc
+**.db
